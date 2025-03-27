@@ -1,0 +1,13 @@
+Awni AlQuraini
+Lab 4C - Optimization
+01/29/2025
+
+Half word address = X...XX1 penalty:	1.99 cycle/instruction
+
+Full word address =	X...X01 penalty:	2.98 cycle/instruction
+Full word address = X...X10 penalty:	1.99 cycle/instruction
+Full word address = X...X11 penalty: 	2.98 cycle/instruction
+
+Address Dependency penalty:				1.99 cycle/instruction
+Data Dependency penalty:				1.98 cycle/instruction
+Maximum VDIV/VSQRT overlap: 			16	 cycles
